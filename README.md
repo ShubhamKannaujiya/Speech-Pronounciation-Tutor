@@ -1,4 +1,4 @@
----
+
 
 # Speech Recognition Using HMM and LBG Codebook
 
@@ -14,7 +14,7 @@ The system includes:
 * **HMM Training:** Forward-Backward (Baum-Welch) and Viterbi algorithms for state estimation and model re-estimation.
 * **Recognition:** Testing audio against trained models for digit identification.
 
----
+
 
 ## Table of Contents
 
